@@ -1,0 +1,1 @@
+este codigo é apenas a tentativa de fazer meu primeiro codigo com apenas algumas aulas sobre logica da programação para testar meu conhecimento , este codigo foi feito em cerca de 20 minutos (incluindo o tempo em que levei para resolver o conflito que estava ocorrendo no codigo)
